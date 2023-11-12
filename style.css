@@ -41,6 +41,7 @@ h1 {
 
 .ikony {
     display:flex;
+    flex-direction: column;
 }
 
 .item {
